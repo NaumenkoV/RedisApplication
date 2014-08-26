@@ -15,15 +15,11 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * Created by Вадим on 22.08.2014.
+ * Created by Вадим on 26.08.2014.
  */
 
 @Stateless
 public class ProductServiceImpl implements ProductService {
-
-
-//    @Autowired
-//    Repository productRepository;
 
     ApplicationContext applicationContext = new ClassPathXmlApplicationContext("spring-config.xml");
     Repository productRepository = (ProductRepository) applicationContext.getBean("productRepository");

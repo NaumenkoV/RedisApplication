@@ -1,0 +1,9 @@
+D:\java\RedisApplication\ejb-manager\src\main\java\com\ejbexample5\ejbmanager\controller\ProductResource.java
+D:\java\RedisApplication\ejb-manager\src\main\java\com\ejbexample5\ejbmanager\jsonUtil\JsonUtil.java
+D:\java\RedisApplication\ejb-manager\src\main\java\com\ejbexample5\ejbmanager\jsonUtil\impl\JsonUtilGsonImpl.java
+D:\java\RedisApplication\ejb-manager\src\main\java\com\ejbexample5\ejbmanager\redis\Repository.java
+D:\java\RedisApplication\ejb-manager\src\main\java\com\ejbexample5\ejbmanager\controller\AddProductsList.java
+D:\java\RedisApplication\ejb-manager\src\main\java\com\ejbexample5\ejbmanager\controller\GetProductsList.java
+D:\java\RedisApplication\ejb-manager\src\main\java\com\ejbexample5\ejbmanager\redis\ProductRepository.java
+D:\java\RedisApplication\ejb-manager\src\main\java\com\ejbexample5\ejbmanager\serivce\ProductService.java
+D:\java\RedisApplication\ejb-manager\src\main\java\com\ejbexample5\ejbmanager\serivce\ProductServiceImpl.java

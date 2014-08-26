@@ -6,7 +6,7 @@ import com.ejbexample5.entity.redis.DomainObject;
 import java.util.List;
 
 /**
- * Created by Вадим on 24.08.2014.
+ * Created by Вадим on 26.08.2014.
  */
 
 public interface Repository<V extends DomainObject> {

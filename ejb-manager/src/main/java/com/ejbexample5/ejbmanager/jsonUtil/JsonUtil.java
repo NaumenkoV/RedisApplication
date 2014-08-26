@@ -3,7 +3,7 @@ package com.ejbexample5.ejbmanager.jsonUtil;
 import javax.ejb.Local;
 
 /**
- * Created by Вадим on 25.08.2014.
+ * Created by Вадим on 26.08.2014.
  */
 @Local
 public interface JsonUtil {

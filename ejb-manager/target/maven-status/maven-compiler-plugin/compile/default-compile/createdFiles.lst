@@ -1,0 +1,10 @@
+com\ejbexample5\ejbmanager\serivce\ProductServiceImpl.class
+com\ejbexample5\ejbmanager\redis\ProductRepository.class
+com\ejbexample5\ejbmanager\controller\AddProductsList.class
+com\ejbexample5\ejbmanager\controller\ProductResource.class
+com\ejbexample5\ejbmanager\serivce\ProductService.class
+com\ejbexample5\ejbmanager\jsonUtil\impl\JsonUtilGsonImpl.class
+com\ejbexample5\ejbmanager\jsonUtil\JsonUtil.class
+com\ejbexample5\ejbmanager\controller\GetProductsList.class
+com\ejbexample5\ejbmanager\serivce\ProductServiceImpl$1.class
+com\ejbexample5\ejbmanager\redis\Repository.class

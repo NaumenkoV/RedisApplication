@@ -1,7 +1,7 @@
 package com.ejbexample5.ejbmanager.controller;
 
 /**
- * Created by Вадим on 25.08.2014.
+ * Created by Вадим on 26.08.2014.
  */
 
 import com.ejbexample5.ejbmanager.jsonUtil.JsonUtil;

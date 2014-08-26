@@ -11,11 +11,9 @@
 
     <artifactId>ejb-manager</artifactId>
     <dependencies>
-        <dependency>
-            <groupId>javax</groupId>
-            <artifactId>javaee-web-api</artifactId>
-            <version>6.0</version>
-        </dependency>
+
+
+
 
         <dependency>
             <groupId>javax.ws.rs</groupId>
@@ -34,9 +32,6 @@
             <artifactId>jersey-json</artifactId>
             <version>1.2</version>
         </dependency>
-
-
-
 
 
         <dependency>
@@ -109,10 +104,15 @@
             <version>2.3</version>
         </dependency>
 
-
-
+        <dependency>
+            <groupId>javax</groupId>
+            <artifactId>javaee-web-api</artifactId>
+            <version>6.0</version>
+        </dependency>
 
     </dependencies>
+
+
 
 
 </project>

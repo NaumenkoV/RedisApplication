@@ -7,7 +7,7 @@ import javax.ejb.Local;
 import java.util.List;
 
 /**
- * Created by Вадим on 22.08.2014.
+ * Created by Вадим on 26.08.2014.
  */
 @Local
 public interface ProductService {

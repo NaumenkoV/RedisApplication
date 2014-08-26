@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Вадим on 24.08.2014.
+ * Created by Вадим on 26.08.2014.
  */
 
 public class ProductRepository implements Repository<Product> {
